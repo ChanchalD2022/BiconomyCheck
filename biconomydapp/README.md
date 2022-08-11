@@ -1,3 +1,13 @@
+![image](https://user-images.githubusercontent.com/111080861/184208940-7662c890-75d4-48fd-a904-b80524fd2a57.png)
+
+This is the site to reproduce the error first click "Increment Counter" Button ( it initializes the app )
+then click "Call Transaction Function" Button ( this is where the signing takes place )
+
+the Third button won't work
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
